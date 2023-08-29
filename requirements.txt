@@ -5,3 +5,4 @@ Pillow
 py-cpuinfo
 streamlit
 ultralytics
+python==3.11
