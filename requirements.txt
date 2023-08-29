@@ -1,7 +1,6 @@
 # Visionoscope Workbench
-#opencv-python-headless
+opencv-python-headless
 lapx
-OpenCV-Python
 Pillow
 py-cpuinfo
 streamlit
